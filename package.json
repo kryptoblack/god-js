@@ -11,11 +11,11 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kryptoblack/god-js.git"
+    "url": "https://github.com/kryptoblack/js-god.git"
   },
-  "homepage": "https://github.com/kryptoblack/god-js#readme",
+  "homepage": "https://github.com/kryptoblack/js-god#readme",
   "bugs": {
-    "url": "https://github.com/kryptoblack/god-js/issues"
+    "url": "https://github.com/kryptoblack/js-god/issues"
   },
   "files": [
     "index.js"

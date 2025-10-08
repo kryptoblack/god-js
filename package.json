@@ -1,0 +1,26 @@
+{
+  "name": "god-js",
+  "version": "1.0.0",
+  "description": "This is a joke please do not take it too seriously.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests needed\"",
+    "start": "node index.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kryptoblack/god-js.git"
+  },
+  "homepage": "https://github.com/kryptoblack/god-js#readme",
+  "bugs": {
+    "url": "https://github.com/kryptoblack/god-js/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "Pratik Thakare <thisguy@pratikthakare.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.18.1"
+}
